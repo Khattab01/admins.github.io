@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+body{
+   direction: rtl;
+   background: #212121;
+   background-repeat: no-repeat;
+   width:100vw;
+   height:100vh;
+   font-family: cairo;
+   padding: 0px;
+   margin: 0px;
+   text-shadow: 3px 3px 5px #212121;
+   text-align: center;
+   color:rgb(255, 255, 255);
+   font-size: 100%;
+ 
+
+}
+h1 p{
+    
+}
+img{
+    border:solid 3px #636363;
+    width:80%;
+    height: auto;
+}
+a{
+    text-decoration:none;
+    color:rgb(110, 108, 108);
+    padding: 1% 4%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: auto;
+    height: auto;
+    background: transparent;
+    border-radius: 20px;
+    border : solid #524d4d 2px;
+}
+a:hover{
+    background: #524d4d;
+    color:rgb(253, 130, 30);
+
+}
+.x1{
+    background-color: #524d4d;
+    height:auto;
+    padding: 0px 15px 20px 15px;
+    font-size: 110%;
+}
+.x2{
+    background-color: #212121;
+    height:auto;
+    padding: 0px 15px 20px 15px;
+    font-size: 110%;
+}
+.x3{
+    background-color: #524d4d;
+    height:auto;
+    padding: 0px 15px 20px 15px;
+    font-size: 110%;
+}
+footer{
+    background-color: #212121;
+    height:auto;
+    padding: 0px 15px 20px 15px;
+    font-size: 110%;
+}
+button{
+    text-decoration:none;
+    color:rgb(110, 108, 108);
+    padding: 1% 4%;
+    width: auto;
+    height: auto;
+    background: transparent;
+    border-radius: 20px;
+    border : solid #524d4d 2px;
+    background: transparent;
+    color:rgba(255, 0, 0, 0.185);
+    font-family: cairo; 
+    font-size: 80%;
+    text-shadow: 3px 3px 5px #212121;
+}
+    
+button:hover{
+    background: #524d4d;
+    color:rgb(253, 30, 30);
+
+}
